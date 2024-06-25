@@ -1,2 +1,2 @@
 # Trial-Simulation
-Jupyter notebooks for simulation randomised controlled trials and observational studies.
+Jupyter notebooks for simulation of randomised controlled trials and observational studies.
